@@ -26,4 +26,5 @@ Bring your very best friends
 Live link: https://www.meetup.com/Code-For-NL/events/276025550/
 
 Dit is een tekstje dat Joris heeft toegevoegd! Bam! 
+
 @anous Anouschka Scholten
