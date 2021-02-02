@@ -1,6 +1,8 @@
 # Introductie-Workshop-GitHub
 Introductie Workshop GitHub - "hoe doe je een pull request?"
 
+Check ook de notes van @anous: https://github.com/codefornl/Introductie-Workshop-GitHub/blob/main/Notes
+
 Details
 
 ![Shoshin afbeelding](https://secure.meetupstatic.com/photos/event/e/1/c/7/highres_494517799.jpeg)
