@@ -5,6 +5,8 @@ Details
 
 ![Shoshin afbeelding](https://secure.meetupstatic.com/photos/event/e/1/c/7/highres_494517799.jpeg)
 
+Hier iets van informatie over Shoshin
+
 Hierboven een mooie afbeelding
 
 Ben jij van een afstandje verbonden met Code for NL en zie je al die interessante projecten langskomen... maar begrijp je stiekem niks van GitHub??
