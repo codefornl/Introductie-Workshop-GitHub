@@ -1,4 +1,12 @@
 # Introductie-Workshop-GitHub
+
+Begin februari 2021 organiseerde Eva (community manager CoronaTester) en Johan (bestuurslid Code for NL) een community meetup voor een introductie over het werken met Github en Github Pages, en daar bijdragen aan leveren middels Pull Requests. Dat hebben we in deze repository geoefend. Wil je ook een introductie hierover, of wil je graag nog een keer verder? Kom even naar praatmee.codefor.nl en laat het daar weten!
+
+Vriendelijke groet,
+Johan
+
+## Hieronder is workshop gebied --- wat gerommel :)
+
 Introductie Workshop GitHub - "hoe doe je een pull request?"
 
 Check ook de [notes van @anous](https://github.com/codefornl/Introductie-Workshop-GitHub/blob/main/Notes.txt)
