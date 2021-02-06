@@ -13,7 +13,7 @@ Hierboven een mooie afbeelding
 
 Ben jij van een afstandje verbonden met Code for NL en zie je al die interessante projecten langskomen... maar begrijp je stiekem niks van GitHub??
 
-Dit is je kans.
+Dit is je kans. SUPER DEZE KANS!
 
 Zet jouw Beginner's Mind op en je wordt meegenomen in de basics:
 - hoe doe je mee met of modereer je een project
