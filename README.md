@@ -5,11 +5,11 @@ Begin februari 2021 organiseerde Eva (community manager CoronaTester) en Johan (
 Vriendelijke groet,
 Johan
 
+PS. Check de [notes van @anous](https://github.com/codefornl/Introductie-Workshop-GitHub/blob/main/Notes.txt) voor wat er allemaal voorbij kwam in deze sessie.
+
 ## Hieronder is workshop gebied --- wat gerommel :)
 
 Introductie Workshop GitHub - "hoe doe je een pull request?"
-
-Check ook de [notes van @anous](https://github.com/codefornl/Introductie-Workshop-GitHub/blob/main/Notes.txt)
 
 Details
 
