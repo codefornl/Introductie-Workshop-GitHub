@@ -29,6 +29,7 @@ Bring your very best friends
 
 Live link: https://www.meetup.com/Code-For-NL/events/276025550/
 
+Herman Eberstadt van der Velden
 Peter Moorer (https://www.linkedin.com/in/peter-moorer/)
 Emily Daemen
 Dit is een tekstje dat Joris heeft toegevoegd! Bam! 
