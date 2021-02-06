@@ -1,5 +1,3 @@
-Eva nog een test
-
 # Introductie-Workshop-GitHub
 Introductie Workshop GitHub - "hoe doe je een pull request?"
 
@@ -39,3 +37,4 @@ Peter Moorer (https://www.linkedin.com/in/peter-moorer/)
 Emily Daemen
 Dit is een tekstje dat Joris heeft toegevoegd! Bam! 
 @anous Anouschka Scholten
+Eva
